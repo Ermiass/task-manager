@@ -17,6 +17,12 @@
       "text": "Food Shoping",
       "day": "May 7th at 12:30",
       "reminder": false
+    },
+    {
+      "text": "new",
+      "day": "monday 2:30",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
