@@ -21,7 +21,7 @@
     {
       "text": "new",
       "day": "monday 2:30",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     }
   ]
