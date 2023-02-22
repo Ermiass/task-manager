@@ -22,7 +22,7 @@ onSubmit() {
   if(!this.text){
     alert('please add a task!')
     
-  }
+    }
   const newTask = {
     text: this.text,
     day:this.day,
