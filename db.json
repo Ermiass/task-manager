@@ -1,34 +1,25 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Docors Appointement",
-      "day": "May 5th at 2:30",
-      "reminder": false
-    },
-    {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "May 8th at 2:30",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "Food Shoping",
-      "day": "May 7th at 12:30",
-      "reminder": false
-    },
-    {
-      "text": "new",
-      "day": "monday 2:30",
-      "reminder": false,
-      "id": 4
-    },
-    {
       "text": "holiday",
       "day": "Tuesday 2:30",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "new",
+      "day": "monday 2:30",
+      "id": 6
+    },
+    {
+      "text": "great",
+      "day": "Tuesday 2:30",
+      "id": 7
+    },
+    {
+      "text": "great",
+      "day": "Tuesday 2:30",
+      "id": 8
     }
   ]
 }
